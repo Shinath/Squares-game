@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gTun5a2qeTfnM1MI70HOfprOEpk0udaZsykmXWiKQ9xNOEiFymY4ksOIPtQA3GS9HmRwfD0hb5Fqe7Jc0Iryg==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\SquaresGame\\SquaresGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wkala\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wkala\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wkala\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wkala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
